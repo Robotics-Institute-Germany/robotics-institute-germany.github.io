@@ -7,14 +7,5 @@ parent: Research Clusters
 
 Speakers: Rudi, Marc
 
-**Mission:** We solve everything
+## Mission
 
-## TC Foundations of Optimization and Learning for Robotics
-
-Speakers: Majid, Marc
-
-Mission:
-
-Members...
-
-## TC
