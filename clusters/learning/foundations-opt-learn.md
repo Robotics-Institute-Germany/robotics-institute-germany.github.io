@@ -9,7 +9,7 @@ Speakers:
 [Majid Khadiv](https://www.professoren.tum.de/en/khadiv-majid)
 [Marc Toussaint](https://www.user.tu-berlin.de/mtoussai/)
 
-## Mission
+## Scope
 
 Optimization and learning are at the core of robotics research and the recent success in robot learning. Traditionally, the fields of control theory, optimization-based planning, and modern imitation and generative model learning were segregated, although they share common foundations. Germany has excellent experts in each of these subfields – this TC is bringing these together, enabling them to develop unifying approaches and transferring ideas between the fields, and aiming to establish a theoretically-grounded framework for decision-making in robotic systems.
 
