@@ -9,7 +9,6 @@ This is how we should acknowledge funding in papers:
 
 	This work has been supported by German Federal Ministry of Research, Technology and Space (BMFTR) under the Robotics Institute Germany (RIG).
 
-
 ## Contributing to this page
 
 Motivation for this page:
