@@ -11,3 +11,6 @@ Speakers:
 
 ## Mission
 
+We lay the foundations to bring modern AI and Machine Learning to Robotics.
+
+Our research and Technical Committees focuses on fundamental methods (e.g. Optimization, (Reinforcement) Learning, guarantees) and foundation models (VLAs, neuro-symbolic methods) that are general-purpose applicable across robotic systems and tasks.
