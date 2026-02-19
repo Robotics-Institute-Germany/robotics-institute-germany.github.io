@@ -6,8 +6,8 @@ parent: RC Learning
 # TC Foundations of Optimization and Learning for Robotics
 
 Speakers:
-[Majid Khadiv](https://www.professoren.tum.de/en/khadiv-majid)
-[Marc Toussaint](https://www.user.tu-berlin.de/mtoussai/)
+[Majid Khadiv](https://www.professoren.tum.de/en/khadiv-majid) (TU Munich) and
+[Marc Toussaint](https://www.user.tu-berlin.de/mtoussai/) (TU Berlin)
 
 ## Scope
 
