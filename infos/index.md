@@ -3,6 +3,8 @@ title: Infos for RIG Members
 nav_order: 6
 ---
 
+# Infos for RIG Members
+
 ## Acknowledging RIG
 
 This is how we should acknowledge funding in papers:
