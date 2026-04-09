@@ -1,5 +1,5 @@
 ---
-title: Accomadation
+title: Accommodation
 parent: RIG General Meeting Fall 2026 in Berlin
 ---
 
@@ -10,9 +10,6 @@ parent: RIG General Meeting Fall 2026 in Berlin
 - [Garner Hotel Berlin - Charlottenburg by IHG](https://maps.app.goo.gl/HNNnBExrxFSjYPeE7)
 - [Hotel Indigo Berlin - Ku'Damm by IHG](https://maps.app.goo.gl/VyyCyP4iGcfXQiiu9)
 
-## Supermarkets
-- [EDEKA](https://maps.app.goo.gl/G7AkG13jBd5hJqFH7)
-- [HIT(at Bhf Zoo)](https://maps.app.goo.gl/6xQRoMgTnGErDEDG7)
 
 ## Map
 
