@@ -1,7 +1,7 @@
 title: RIG Community Webpage
 description: Community-driven sharing of resources and information, e.g. on robotics software, hardware, education, infrastructure, publications, and robotics research in Germany.
 theme: just-the-docs
-logo: "/assets/images/RIG_Logo_Initials_White_RGB.png"
+logo: "assets/images/RIG_Logo_Initials_White_RGB.png"
 
 permalink: pretty
 
@@ -124,7 +124,7 @@ liquid:
 back_to_top: false
 #back_to_top_text: "Back to top"
 
-footer_content: 'Concent provided by the RIG community. Based on <a href="https://github.com/just-the-docs/">Just-The-Docs</a>.'
+footer_content: 'Content provided by the RIG community. Based on <a href="https://github.com/just-the-docs/">Just-The-Docs</a>.'
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
@@ -139,7 +139,7 @@ gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
-color_scheme: dark
+color_scheme: light
 
 callouts_level: quiet # or loud
 callouts:
