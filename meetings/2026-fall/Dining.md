@@ -2,6 +2,7 @@
 title: Dining
 parent: RIG General Meeting Fall 2026 in Berlin
 ---
+# Dining options
 
 ## Mensa / Cantine
 - [PTB mensa](https://maps.app.goo.gl/hkkrAX7QGGXtfMRRA)
@@ -18,4 +19,4 @@ parent: RIG General Meeting Fall 2026 in Berlin
 
 ## Supermarkets
 - [EDEKA](https://maps.app.goo.gl/G7AkG13jBd5hJqFH7)
-- [HIT(at Bhf Zoo)](https://maps.app.goo.gl/6xQRoMgTnGErDEDG7)
+- [HIT (at Bhf Zoo)](https://maps.app.goo.gl/6xQRoMgTnGErDEDG7)
