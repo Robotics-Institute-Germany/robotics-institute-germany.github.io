@@ -1,0 +1,86 @@
+/* Accent color (centralised theme token) */
+$accent-color: #8b6cff;
+
+/* Entire left sidebar background */
+.side-bar {
+  background-color: #000;
+}
+
+/* Site title / logo area */
+.site-header {
+  background-color: #000;
+  border-bottom: 1px solid #111;
+}
+
+/* Sidebar text */
+.nav-list .nav-list-item a,
+.site-title {
+  color: #fff !important;
+}
+
+/* Active / hover states */
+.nav-list .nav-list-item a:hover {
+  color: #ccc !important;
+}
+
+/* Sidebar section labels */
+.nav-list .nav-list-expander {
+  color: #aaa;
+}
+
+/* Divider / borders */
+.nav-list {
+  border-color: #111;
+}
+
+.side-bar .nav-list .nav-list-item a:hover {
+  background: none !important;
+  background-image: none !important;
+  box-shadow: none !important;
+}
+
+.side-bar .nav-list .nav-list-item a:hover {
+  color: $accent-color !important;
+}
+
+/* Remove active/current page background highlight */
+.side-bar .nav-list .nav-list-item a.active,
+.side-bar .nav-list .nav-list-item .nav-list-link.active,
+.side-bar .nav-list .nav-list-item .active {
+  background: none !important;
+  background-image: none !important;
+  box-shadow: none !important;
+}
+
+/* Global link color */
+a {
+  color: $accent-color;
+}
+
+a:hover {
+  color: $accent-color;
+  text-decoration: underline;
+}
+
+/* Sidebar links */
+.side-bar a,
+.side-bar a:visited {
+  color: #ffffff;
+}
+
+/* Hover + active = purple */
+.side-bar a:hover,
+.side-bar a.active,
+.side-bar .nav-list .nav-list-item .active {
+  color: $accent-color !important;
+}
+
+/* Force caret icons to inherit link color */
+.side-bar .nav-list .nav-list-expander {
+  color: $accent-color !important;
+}
+
+/* Move caret slightly left */
+.side-bar .nav-list .nav-list-expander {
+  margin-right: 0.5rem;
+}
