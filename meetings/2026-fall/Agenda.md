@@ -5,17 +5,13 @@ parent: RIG General Meeting Fall 2026 in Berlin
 
 # Agenda
 
-> Imported from `Agenda General Meeting RIG Sep25_Bonn.pdf`. The dates and location below reflect the source PDF content from Bonn in September 2026.
-
-
-
 ## General Meeting (Tentative schedule)
 ### Thursday, September 17, 2026
 
 | Time | Item | Details |
 | --- | --- | --- |
 | 09:00-12:00 | Workshops and Meetings of RIG Clusters and Workpackages | Organized by Cluster Spokespersons or WP Leaders |
-| 12:00 | Lunch | See dining options [here](Dining.md) |
+| 12:00 | Lunch | See lunch options [here]({% link meetings/2026-fall/Lunch_options.md %}) |
 | 13:00 | Meet & Greet | Marchstraße 23 Building |
 | 13:30 | Welcome | RIG TU Berlin as local host |
 | 14:00 | Status Report from the Board | Tamim Asfour, Angela Schoellig, Oliver Brock, Sven Behnke |
@@ -38,7 +34,7 @@ parent: RIG General Meeting Fall 2026 in Berlin
 | 10:30 | Coffee Break |  |
 | 11:00 | Status-quo Workpackage 6 | Jan Peters |
 | 11:30 | Status-quo Workpackage 7 | Alin Albu-Schaffer |
-| 12:00 | Lunch | See dining options [here](Dining.md) |
+| 12:00 | Lunch | See lunch options [here]({% link meetings/2026-fall/Lunch_options.md %}) |
 | 13:00 | Feedback RIG Members & Next Steps | Tamim Asfour and Angela Schoellig |
 | 13:30 | Conclusion & Closing | TU Berlin host team |
 | 14:00-17:00 | Workshops and Meetings of RIG Clusters and Workpackages | Organized by Cluster Spokespersons or WP Leaders |
