@@ -4,11 +4,11 @@ parent: RIG General Meeting Fall 2026 in Berlin
 ---
 
 ## Hotels
-- [B&B HOTEL Berlin-Tiergarten](https://maps.app.goo.gl/Vac9wjpSyWfzwZPx7)
-- [Holiday Inn - the niu, Flash Berlin Charlottenburg by IHG](https://maps.app.goo.gl/ZWJTFqZk6yRNBwkq8)
-- [Candlewood Suites Berlin Charlottenburg by IHG](https://maps.app.goo.gl/Tr2F82sXRCVonLcc6)
-- [Garner Hotel Berlin - Charlottenburg by IHG](https://maps.app.goo.gl/HNNnBExrxFSjYPeE7)
-- [Hotel Indigo Berlin - Ku'Damm by IHG](https://maps.app.goo.gl/VyyCyP4iGcfXQiiu9)
+- [B&B HOTEL Berlin-Tiergarten](https://maps.app.goo.gl/Vac9wjpSyWfzwZPx7)(10 min walk to meeting location; 3 stars)
+- [Holiday Inn - the niu, Flash Berlin Charlottenburg by IHG](https://maps.app.goo.gl/ZWJTFqZk6yRNBwkq8) (5 min walk to meeting location; 3 stars)
+- [Candlewood Suites Berlin Charlottenburg by IHG](https://maps.app.goo.gl/Tr2F82sXRCVonLcc6) (6 min walk to meeting location; 3 stars)
+- [Garner Hotel Berlin - Charlottenburg by IHG](https://maps.app.goo.gl/HNNnBExrxFSjYPeE7) (8 min walk to meeting location; 3 stars)
+- [Hotel Indigo Berlin - Ku'Damm by IHG](https://maps.app.goo.gl/VyyCyP4iGcfXQiiu9) (12 min with bus M45 to meeting location or 18 min walk; 4 stars)
 
 
 ## Map
