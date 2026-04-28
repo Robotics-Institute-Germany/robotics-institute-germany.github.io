@@ -1,6 +1,6 @@
 ---
 title: Software
-nav_order: 2
+parent: Resources
 ---
 
 # RIG Software Resources

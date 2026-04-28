@@ -1,6 +1,6 @@
 ---
 title: Hardware
-nav_order: 3
+parent: Resources
 ---
 
 # RIG Hardware Resources

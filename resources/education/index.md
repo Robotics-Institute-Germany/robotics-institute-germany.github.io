@@ -1,6 +1,6 @@
 ---
 title: Education
-nav_order: 4
+parent: Resources
 ---
 
 # RIG Education Resources

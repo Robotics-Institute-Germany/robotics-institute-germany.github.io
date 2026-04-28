@@ -1,6 +1,6 @@
 ---
 title: Infos for RIG Members
-nav_order: 6
+nav_order: 4
 ---
 
 # Infos for RIG Members
