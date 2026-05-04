@@ -13,7 +13,7 @@ parent: Meetings
 
 **Meeting Locations**
 - [TU Berlin, Marchstraße 23, 10587](https://maps.app.goo.gl/yZszp4wgrEncJMrD8)
-- [Fraunhofer HHI at Lanolinfabrik](https://maps.app.goo.gl/gMJNbfFDTop1WD1i6)
+- [Fraunhofer HHI at Lanolin Fabrik](https://maps.app.goo.gl/gMJNbfFDTop1WD1i6)
 
 These are a 6 minute walk away from each other on opposite sides of the Spree (the river).
 
