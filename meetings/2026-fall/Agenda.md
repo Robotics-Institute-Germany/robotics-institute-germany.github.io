@@ -19,7 +19,7 @@ parent: RIG General Meeting Fall 2026 in Berlin
 | 15:45 | Coffee break | Group picture at 16:10 | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 16:15 | Status-quo Workpackage 3 | Tamim Asfour | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 18:15 | Status-quo Workpackage 8 | Oliver Brock | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
-| 18:45 | Lab Tour | We will tour four labs in groups in rotation, exact room locations TBD | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9)
+| 18:45 | Lab Tour | We will tour several labs in groups in rotation, exact room locations TBD | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9)
 | 19:30-22:00 | Reception dinner |  | TBD
 
 ### Friday, September 18, 2026
@@ -60,10 +60,10 @@ parent: RIG General Meeting Fall 2026 in Berlin
 
 | Time | Lab | Lead | Place |
 | --- | --- | --- | --- |
-| 17:45-19:15 | RBO Lab | Oliver Brock | 5.065 |
-| 17:45-19:15 | LIS Lab | Marc Toussaint | 4.028 |
-| 17:45-19:15 | MRS Lab | Wolfgang Hönig | 4.014 |
-| 17:45-19:15 | RIP Lab | Guillermo Gallego | 5.024 |
-| 17:45-19:15 | Science of Intelligence Lab | TBD | 2nd floor |
+| 18:45-19:15 | RBO Lab | Oliver Brock | 5.065 |
+| 18:45-19:15 | LIS Lab | Marc Toussaint | 4.028 |
+| 18:45-19:15 | MRS Lab | Wolfgang Hönig | 4.014 |
+| 18:45-19:15 | RIP Lab | Guillermo Gallego | 5.024 |
+| 18:45-19:15 | Science of Intelligence Lab | TBD | 2nd floor |
 
 Subject to change.
