@@ -15,6 +15,7 @@ parent: RIG General Meeting Fall 2026 in Berlin
 
 ## Map
 
+The dark blue locations are the meeting venues, the purple locations are for hotels.
 <div style="position: relative; width: 100%; padding-bottom: 62.5%; height: 0; overflow: hidden; border: 1px solid #444; border-radius: 6px;">
   <iframe
     src="https://umap.openstreetmap.fr/en/map/untitled-map_1396981#16/52.517494/13.323884"
