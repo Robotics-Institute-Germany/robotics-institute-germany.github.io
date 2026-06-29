@@ -15,12 +15,12 @@ parent: RIG General Meeting Fall 2026 in Berlin
 | 13:00 | Meet & Greet | | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 13:30 | Welcome | RIG TU Berlin as local host | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 14:00 | Status Report from the Board | Tamim Asfour, Angela Schoellig, Oliver Brock, Sven Behnke | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
-| 14:45 | Status-quo Workpackage 1 and 2 | Angela Schoellig | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
-| 15:45 | Coffee break | Group picture at 16:10 | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
-| 16:15 | Status-quo Workpackage 3 | Tamim Asfour | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
-| 18:15 | Status-quo Workpackage 8 | Oliver Brock | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
-| 18:45 | Lab Tour | We will tour several labs in groups in rotation, exact room locations TBD | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9)
-| 19:30-22:00 | Reception dinner |  | TBD
+| 14:30 | Status-quo Workpackage 1 and 2 | Angela Schoellig | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
+| 15:30 | Coffee break | Group picture at 16:10 | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
+| 16:00 | Status-quo Workpackage 3 | Tamim Asfour | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
+| 18:00 | Status-quo Workpackage 8 | Oliver Brock | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
+| 18:15 | Lab Tour | We will tour several labs in groups in rotation, exact room locations TBD | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9)
+| 19:00-22:00 | Reception dinner |  | TBD
 
 ### Friday, September 18, 2026
 
