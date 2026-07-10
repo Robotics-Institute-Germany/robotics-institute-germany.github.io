@@ -10,7 +10,7 @@ parent: RIG General Meeting Fall 2026 in Berlin
 
 | Time | Item | Details | Location
 | --- | --- | --- | --- |
-| 09:00-12:00 | Workshops and Meetings of RIG Clusters and Workpackages | Organized by Cluster Spokespersons or WP Leaders | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9)
+| 09:00-12:00 | Workshops and Meetings of RIG Clusters and Workpackages | Coffee break at 10:30 | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9)
 | 12:00 | Lunch | See lunch options [here]({% link meetings/2026-fall/Lunch_options.md %}) | Self-pay
 | 13:00 | Meet & Greet | | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 13:30 | Welcome | RIG TU Berlin as local host | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
@@ -27,7 +27,6 @@ parent: RIG General Meeting Fall 2026 in Berlin
 
 | Time | Item | Details | Location
 | --- | --- | --- | --- |
-| 08:30 | Meet & Coffee |  | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 09:00 | Update BMFTR & VDI/VDE IT | TBD | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 09:30 | Status-quo Workpackage 4 | Michael Beetz | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 10:00 | Status-quo Workpackage 5 | Sven Behnke | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
@@ -37,7 +36,7 @@ parent: RIG General Meeting Fall 2026 in Berlin
 | 12:00 | Lunch | See lunch options [here]({% link meetings/2026-fall/Lunch_options.md %}) | Self-pay
 | 13:00 | Feedback RIG Members & Next Steps | Tamim Asfour and Angela Schoellig | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 13:30 | Conclusion & Closing | TU Berlin host team | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
-| 14:00-17:00 | Workshops and Meetings of RIG Clusters and Workpackages | Organized by Cluster Spokespersons or WP Leaders | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9)
+| 14:00-17:00 | Workshops and Meetings of RIG Clusters and Workpackages | Coffee break at 15:30  | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9)
 
 ## Workshops
 
