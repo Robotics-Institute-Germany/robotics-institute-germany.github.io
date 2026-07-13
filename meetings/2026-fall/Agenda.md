@@ -18,8 +18,8 @@ parent: RIG General Meeting Fall 2026 in Berlin
 | 14:30 | Status-quo Workpackage 1 and 2 | Angela Schoellig | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 15:30 | Coffee break | Group picture at 16:10 | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 16:00 | Status-quo Workpackage 3 | Tamim Asfour | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
-| 18:00 | Status-quo Workpackage 8 | Oliver Brock | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
-| 18:15 | DGR Vorstand Election |  | TBD
+| 17:45 | Status-quo Workpackage 8 | Oliver Brock | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
+| 18:00 | DGR Vorstand Election |  | TBD
 | 18:45 | Lab Tour | We will tour several labs in groups in rotation, exact room locations TBD | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9)
 | 19:30-22:00 | Reception dinner |  | TBD
 
