@@ -19,9 +19,9 @@ parent: RIG General Meeting Fall 2026 in Berlin
 | 15:30 | Coffee break | Group picture at 16:10 | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 16:00 | Status-quo Workpackage 3 | Tamim Asfour | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 17:45 | Status-quo Workpackage 8 | Oliver Brock | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
-| 18:00 | DGR Vorstand Election |  | TBD
+| 18:00 | DGR Vorstand Election |  | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 18:45 | Lab Tour | We will tour several labs in groups in rotation, exact room locations TBD | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9)
-| 19:30-22:00 | Reception dinner |  | TBD
+| 19:30-22:00 | Reception |  | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 
 ### Friday, September 18, 2026
 
@@ -30,7 +30,7 @@ parent: RIG General Meeting Fall 2026 in Berlin
 | 09:00 | Update BMFTR & VDI/VDE IT | TBD | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 09:30 | Status-quo Workpackage 4 | Michael Beetz | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 10:00 | Status-quo Workpackage 5 | Sven Behnke | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
-| 10:30 | Coffee Break |  |
+| 10:30 | Coffee Break | | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 11:00 | Status-quo Workpackage 6 | Jan Peters | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 11:30 | Status-quo Workpackage 7 | Alin Albu-Schaffer | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 12:00 | Lunch | See lunch options [here]({% link meetings/2026-fall/Lunch_options.md %}) | Self-pay
@@ -39,6 +39,7 @@ parent: RIG General Meeting Fall 2026 in Berlin
 | 14:00-17:00 | Workshops and Meetings of RIG Clusters and Workpackages | Coffee break at 15:30  | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9)
 
 ## Workshops
+All happening at [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9).
 
 ### Thursday, September 17, 2026
 
