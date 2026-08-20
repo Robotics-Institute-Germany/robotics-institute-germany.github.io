@@ -26,4 +26,4 @@ While there is free parking around the Marchstr. 23 building on the TU Berlin ca
 
 **Contact**
 
-Email: rigmeeting2026@rip.tu-berlin.de
+Email: rig@robotics.tu-berlin.de
