@@ -13,7 +13,7 @@ parent: RIG General Meeting Fall 2026 in Berlin
 | 09:00-12:00 | Workshops and Meetings of RIG Clusters and Workpackages | Coffee break at 10:30 | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9)
 | 12:00 | Lunch | See lunch options [here]({% link meetings/2026-fall/Lunch_options.md %}) | Self-pay
 | 13:00 | Meet & Greet | Registration| [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
-| 13:20 | Welcome | RIG Berlin as local host | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
+| 13:20 | Welcome from RIG Berlin | Fraunhofer & TU Berlin as local host | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 13:40 | Status Report from the Board | Tamim Asfour, Angela Schoellig, Oliver Brock, Sven Behnke | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 14:00 | Address from Simon Hechinger (BMFTR) and David Müller (VDI/VDE) || [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 14:30 | Status-quo Workpackage 1 and 2 | Angela Schoellig | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
@@ -36,7 +36,7 @@ parent: RIG General Meeting Fall 2026 in Berlin
 | 11:30 | Status-quo Workpackage 7 | Alin Albu-Schaffer | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 12:00 | Lunch | See lunch options [here]({% link meetings/2026-fall/Lunch_options.md %}) | Self-pay
 | 13:00 | Feedback RIG Members & Next Steps | Tamim Asfour and Angela Schoellig | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
-| 13:30 | Conclusion & Closing | TU Berlin host team | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
+| 13:30 | Conclusion & Closing | Berlin host team | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5)
 | 14:00-17:00 | Workshops and Meetings of RIG Clusters and Workpackages | Coffee break at 15:30  | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9)
 
 ## Workshops
