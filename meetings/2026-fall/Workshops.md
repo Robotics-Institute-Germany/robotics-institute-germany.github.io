@@ -9,8 +9,7 @@ Workshops are held on Thursday (September 17) 9:00 - 12:00 and Friday (September
 
 All meetings are located in the [MAR building](https://maps.app.goo.gl/9bMFMyK8MpaRGKHG9) at **Marchstraße 23, 10587 Berlin**.
 
-
-## Room Assignment
+## Tentative Room Assignment
 
 | Room | Thursday **9:00 - 10:30** | Thursday **10:30 - 12:00** | Friday **14:00 - 15:30** | Friday **15:30 - 17:30**
 | - | - | - | - | - |
