@@ -18,8 +18,8 @@ parent: RIG General Meeting Fall 2026 in Berlin
 | 13:40 | Status Report from the Board | Tamim Asfour, Angela Schoellig, Oliver Brock, Sven Behnke | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 14:00 | Address from Simon Hechinger (BMFTR) and David Müller (VDI/VDE) |  | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 14:30 | Status-quo Workpackage 1 and 2 | Angela Schoellig | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
-| 15:15 | ☕ Coffee Break |  | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
-| 15:30 | Group Picture |  | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
+| 15:15 | Group Picture |  | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
+| 15:30 | ☕ Coffee Break |  | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 15:45 | Status-quo Workpackage 3 | Tamim Asfour | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 17:45 | Status-quo Workpackage 8 | Oliver Brock | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 18:00 | DGR Vorstand Election |  | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
