@@ -14,7 +14,7 @@ parent: RIG General Meeting Fall 2026 in Berlin
 | 09:00 - 12:00 | [Workshops and Meetings of RIG Clusters and Workpackages]({% link meetings/2026-fall/workshops/index.md %}) | ☕ Coffee break at 10:30 | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9) |
 | 12:00 | Lunch | Self-pay | See lunch options [here]({% link meetings/2026-fall/Lunch_options.md %}). |
 | 13:00 | Meet & Greet | Registration | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
-| 13:20 | Welcome from RIG Berlin | Fraunhofer HHI & TU Berlin as local host | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
+| 13:20 | Welcome from RIG Berlin | Prof. Dr.-Ing. Thomas Wiegand & Oliver Brock| [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 13:40 | Status Report from the Board | Tamim Asfour, Angela Schoellig, Oliver Brock, Sven Behnke | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 14:00 | Address from Simon Hechinger (BMFTR) and David Müller (VDI/VDE) |  | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 14:30 | Status-quo Workpackage 1 and 2 | Angela Schoellig | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
