@@ -24,7 +24,7 @@ parent: RIG General Meeting Fall 2026 in Berlin
 | 17:45 | Status-quo Workpackage 8 | Oliver Brock | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 18:00 | DGR Vorstand Election |  | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 18:45 | Lab Tour | We will tour several labs in groups in rotation, exact room locations TBD | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9) |
-| 19:30 - 22:00 | Reception | Relaxed, informal, and open-exhibition style, with Fraunhofer HHI Robotics demonstrators as opportunities to chat with colleagues and hosts, and dinner along the way. | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
+| 19:30 - 22:00 | Reception | Relaxed, informal, and open-exhibition style, with Fraunhofer HHI technology demonstrators as opportunities to chat with colleagues and hosts, and dinner along the way. | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 
 ### Friday, September 18, 2026
 
