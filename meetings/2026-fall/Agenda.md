@@ -48,11 +48,6 @@ There are four timeslots in total.
 
 [Sessions and room assignments]({% link meetings/2026-fall/workshops/index.md %})
 
-| Thursday, September 17, 2026 | Friday, September 18, 2026 |
-| --- | --- |
-| 09:00 - 10:30 | 14:00 - 15:30 |
-| 10:30 - 12:00 | 15:30 - 17:00 |
-
 ## Lab Tour
 
 ### Thursday, September 17, 2026
