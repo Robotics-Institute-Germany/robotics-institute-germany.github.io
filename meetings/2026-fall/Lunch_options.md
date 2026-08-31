@@ -14,30 +14,36 @@ Travel times are approximate and start at Lanolin Fabrik. The price symbols foll
 
 ### €
 
-- [Dave B. Taste Five](https://maps.app.goo.gl/AZNEfRedkVUHasAN8), 14 min walk, 11-14 min public transport, €, **lunch only**
-- [Rüya Gemüse Kebap](https://maps.app.goo.gl/4MZ3UJaZsFLhF1VP6), 15 min walk, 13 min public transport, €
-- [Curry 36 at Zoologischer Garten](https://www.google.com/maps/search/?api=1&query=Curry+36+Hardenbergplatz+Berlin), 27 min walk, 13 min public transport, €
-- [Burgermeister Zoo](https://www.google.com/maps/search/?api=1&query=Burgermeister+Zoo+Berlin), 28 min walk, 13 min public transport, €
-- [Lon Men's Noodle House](https://www.google.com/maps/search/?api=1&query=Lon+Mens+Noodle+House+Berlin), 28 min walk, 17 min public transport, €
-- [Viet Station](https://maps.app.goo.gl/TekBhMJLfmFPanWr5), 8 min walk, €
-- [Heno Heno](https://maps.app.goo.gl/6DRnH58EAHNSnhgu8), 31 min walk, 20-25 min public transport, €
+- [Friendly's Kitchen](https://maps.app.goo.gl/hsysuPoDn55cs6c56), 6 min walk
+- [Viet Station](https://maps.app.goo.gl/TekBhMJLfmFPanWr5), 8 min walk
+- [Esa Noa](https://maps.app.goo.gl/LiEE2jLJQX3YefLTA), 11 min walk
+- [Dave B. Taste Five](https://maps.app.goo.gl/AZNEfRedkVUHasAN8), 14 min walk, 11-14 min public transport, **lunch only**
+- [Rüya Gemüse Kebap](https://maps.app.goo.gl/4MZ3UJaZsFLhF1VP6), 15 min walk, 13 min public transport
+- [Curry 36 at Zoologischer Garten](https://www.google.com/maps/search/?api=1&query=Curry+36+Hardenbergplatz+Berlin), 27 min walk, 13 min public transport
+- [Burgermeister Zoo](https://www.google.com/maps/search/?api=1&query=Burgermeister+Zoo+Berlin), 28 min walk, 13 min public transport
+- [Lon Men's Noodle House](https://www.google.com/maps/search/?api=1&query=Lon+Mens+Noodle+House+Berlin), 28 min walk, 17 min public transport
+- [Heno Heno](https://maps.app.goo.gl/6DRnH58EAHNSnhgu8), 31 min walk, 20-25 min public transport
 
 ### €€
 
-<!-- - [Trattoria Tranquilla](https://maps.app.goo.gl/z2TdRqyPigWKdQgz7), 8 min walk, €€ -->
-- [Taverna Santorini](https://maps.app.goo.gl/N47wwmBirLHiokDx5), 7 min walk, €€
-- [Taverna Ambrosios](https://maps.app.goo.gl/RHyzvECdw11RhZRc9), 5 min walk, €€
-- [Café am Salzufer](https://maps.app.goo.gl/2VhzQ11Ac5rVqJTS8), 2 min walk, €€, **lunch only**
-- [Seoul Garden](https://www.google.com/maps/search/?api=1&query=Seoul+Garden+Berlin+Uhlandstrasse), 2 min walk, 13 min public transport, €€
+<!-- - [Trattoria Tranquilla](https://maps.app.goo.gl/z2TdRqyPigWKdQgz7), 8 min walk -->
+- [Café am Salzufer](https://maps.app.goo.gl/2VhzQ11Ac5rVqJTS8), 2 min walk, **lunch only**
+- [Seoul Garden](https://www.google.com/maps/search/?api=1&query=Seoul+Garden+Berlin+Uhlandstrasse), 2 min walk, 13 min public transport
+- [Taverna Ambrosios](https://maps.app.goo.gl/RHyzvECdw11RhZRc9), 5 min walk
+- [Taverna Santorini](https://maps.app.goo.gl/N47wwmBirLHiokDx5), 7 min walk
+- [DOAN Restaurant](https://maps.app.goo.gl/rRE7ae5FaEA6feJK7), 11 min walk
+- [Il Pozzetto](https://maps.app.goo.gl/kS25vKiZfFZHH28t8), 11 min walk
+- [0086](https://maps.app.goo.gl/fjifqLumecG5Lqqs9), 30 min walk, 20 min public transport
 
 ### €€€
 
-- [NENI Berlin](https://www.google.com/maps/search/?api=1&query=NENI+Berlin), 32 min walk, 18 min public transport, €€€, **friday only**
-- [893 Ryōtei](https://www.google.com/maps/search/?api=1&query=893+Ryotei+Berlin), 29 min walk, 16 min public transport, €€€, **dinner only**
+- [893 Ryōtei](https://www.google.com/maps/search/?api=1&query=893+Ryotei+Berlin), 29 min walk, 16 min public transport, **dinner only**
+- [Good Friends](https://maps.app.goo.gl/x1L1pdsp9FyGtGHTA), 30 min walk, 17 min public transport
+- [NENI Berlin](https://www.google.com/maps/search/?api=1&query=NENI+Berlin), 32 min walk, 18 min public transport, **friday only**
 
 ### €€€€
 
-- [pars](https://www.google.com/maps/search/?api=1&query=pars+Grolmanstrasse+Berlin), 27 min walk, 17 min public transport, €€€€
+- [pars](https://www.google.com/maps/search/?api=1&query=pars+Grolmanstrasse+Berlin), 27 min walk, 17 min public transport
 
 ## Supermarkets
 - [EDEKA](https://maps.app.goo.gl/G7AkG13jBd5hJqFH7), 4 min walk,
