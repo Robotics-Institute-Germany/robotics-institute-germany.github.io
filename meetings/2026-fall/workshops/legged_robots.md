@@ -1,5 +1,5 @@
 ---
-title: "Legged Robots Reimagined"
+title: Legged Robots Reimagined
 parent: Workshops
 ---
 

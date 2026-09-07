@@ -1,5 +1,5 @@
 ---
-title: "Multi-Robot Systems"
+title: Multi-Robot Systems
 parent: Workshops
 ---
 
