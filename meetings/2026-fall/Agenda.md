@@ -22,7 +22,7 @@ parent: RIG General Meeting Fall 2026 in Berlin
 | 15:30 | ☕ Coffee Break |  | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 15:45 | Status-quo Workpackage 3 | Tamim Asfour | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 17:45 | Status-quo Workpackage 8 | Oliver Brock | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
-| 18:00 | DGR Vorstand Election |  | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
+| 18:00 | DGR General Assembly |  | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 18:45 | Lab Tour | We will tour several labs in groups in rotation, exact room locations TBD | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9) |
 | 19:30 - 22:00 | Reception | Relaxed, informal, and open-exhibition style, with Fraunhofer HHI technology demonstrators as opportunities to chat with colleagues and hosts, and dinner along the way. | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 
@@ -30,7 +30,6 @@ parent: RIG General Meeting Fall 2026 in Berlin
 
 | Time | Item | Details | Location |
 | --- | --- | --- | --- |
-| 09:00 | Update BMFTR & VDI/VDE IT | TBD | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 09:30 | Status-quo Workpackage 4 | Michael Beetz | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 10:00 | Status-quo Workpackage 5 | Sven Behnke | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 10:30 | ☕ Coffee Break |  | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
