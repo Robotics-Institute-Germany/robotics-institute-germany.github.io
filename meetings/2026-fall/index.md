@@ -29,10 +29,6 @@ The blue line shows the approximately 425 m walking route between the two meetin
   ></iframe>
 </div>
 
-**Workshops**
-
-If you are interested in hosting a workshop, please fill out the [workshop registration form](https://forms.gle/gLC3rBrhw9gz9evWA).
-
 **Parking**  
 While there is free parking around the Marchstr. 23 building on the TU Berlin campus, the chances of finding a parking spot are very low after 9:00.
 

@@ -11,7 +11,7 @@ parent: RIG General Meeting Fall 2026 in Berlin
 - [Taverna Ambrosios](https://maps.app.goo.gl/RHyzvECdw11RhZRc9), 12 min walk, 9 min public transport, €€
 - [Tiergarten](https://www.berlin.de/en/districts/tiergarten/), 15 min walk, 12 min public transport
 
-See [Lunch Options](Lunch_options.md#restaurants-in-the-area) for restaurant suggestions grouped into four price categories. Travel times start at Marchstraße 23; large groups should reserve ahead.
+See [Lunch and Dinner Options]({% link meetings/2026-fall/Lunch_options.md %}#restaurants-in-the-area) for restaurant suggestions grouped into four price categories. Travel times start at Marchstraße 23; large groups should reserve ahead.
 
 ## Find an event/activity of your liking
 - [Official city portal for events in Berlin](https://www.berlin.de/tickets/)
