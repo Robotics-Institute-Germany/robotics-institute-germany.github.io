@@ -27,7 +27,7 @@ If you are interested in giving a
 
 | Time          | Session                               |
 | ---           | ---                                   | 
-| 4:00 - 14:15  | Welcome and Short Introduction Round  |
+| 14:00 - 14:15  | Welcome and Short Introduction Round  |
 | 14:15 - 15:15 | Spotlight Talks                       |
 | 15:15 - 15:30 | Networking                            |
 
