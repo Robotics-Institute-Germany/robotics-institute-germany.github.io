@@ -20,7 +20,7 @@ Please note, that the rooms are on different floors of the building. The first d
 
 ## Tentative Room Assignment
 
-| Room | Thursday: **9:00 - 10:30** | Thursday: **10:30 - 12:00** | Friday: **14:00 - 15:30** | Friday: **15:30 - 17:30**
+| Room | Thursday: **9:00 - 10:30** | Thursday: **10:30 - 12:00** | Friday: **14:00 - 15:30** | Friday: **15:30 - 17:00**
 | - | - | - | - | - |
 | 0.008 |  | | HRI Cluster Workshop <br/> _barbara.bruno@kit.edu_ |  |
 | 2.046 | [Legged Robots Reimagined: Towards General-Purpose Embodied Intelligence](legged_robots/) <br/> _melya.boukheddimi@dfki.de_ | [Legged Robots Reimagined: Towards General-Purpose Embodied Intelligence](legged_robots/) <br/> _melya.boukheddimi@dfki.de_ | Healthcare Robotics and Human Augmentation <br/> _stefanie.speidel@nct-dresden.de_ |  |
