@@ -20,11 +20,11 @@ Please note, that the rooms are on different floors of the building. The first d
 
 ## Tentative Room Assignment
 
-| Room | Thursday: **9:00 - 10:30** | Thursday: **10:30 - 12:00** | Friday: **14:00 - 15:30** | Friday: **15:30 - 17:30**
+| Room | Thursday: **9:00 - 10:30** | Thursday: **10:30 - 12:00** | Friday: **14:00 - 15:30** | Friday: **15:30 - 17:00**
 | - | - | - | - | - |
 | 0.008 |  | | HRI Cluster Workshop <br/> _barbara.bruno@kit.edu_ |  |
 | 2.046 |  | | Healthcare Robotics and Human Augmentation <br/> _stefanie.speidel@nct-dresden.de_ |  |
 | 2.057 |  |  | Learning Cluster Workshop <br/> _toussaint@tu-berlin.de_ | Learning Cluster Workshop <br/> _toussaint@tu-berlin.de_  |
-| 5.006 | WP3 <br/> _asfour@kit.edu_ | WP3 <br/> _asfour@kit.edu_ | Bridging Manipulation, Perception, and Learning (3 clusters)   <br/> _ashok.meenakshisundaram@dlr.de_ | Bridging Manipulation, Perception, and Learning (3 clusters)   <br/> _ashok.meenakshisundaram@dlr.de_ |
+| 5.006 | WP3 - Science and Engineering for AI-powered Robotics  <br/> _asfour@kit.edu_ | WP3 - Science and Engineering for AI-powered Robotics  <br/> _asfour@kit.edu_ | Bridging Manipulation, Perception, and Learning (3 clusters)   <br/> _ashok.meenakshisundaram@dlr.de_ | Bridging Manipulation, Perception, and Learning (3 clusters)   <br/> _ashok.meenakshisundaram@dlr.de_ |
 | 5.013 |  | WP2 – Networking, Community Building and Visibility <br/> _angela.schoellig@tum.de_ | Research Cluster - Safety, Reliability and Resilience of AI-based Robotics <br/> _angela.schoellig@tum.de_ |  |
-| 5.060 | Perception Cluster Meeting <br/> _joerg.stueckler@uni-a.de_ | Perception Cluster Meeting <br/> _joerg.stueckler@uni-a.de_ | [Multi-Robot Systems Cluster Meeting](mrs/) <br/> _tanja.kaiser@utn.de_ | [RIG Education](rig_education/) <br/> _marcus.kotte@tu-dresden.de_  |
+| 5.060 | Perception Cluster Meeting <br/> _joerg.stueckler@uni-a.de_ | Perception Cluster Meeting <br/> _joerg.stueckler@uni-a.de_ | [Multi-Robot Systems Cluster Meeting](mrs/) <br/> _tanja.kaiser@utn.de_ | [WP6 - RIG Education](rig_education/) <br/> _marcus.kotte@tu-dresden.de_  |
