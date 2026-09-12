@@ -53,11 +53,10 @@ There are four timeslots in total.
 
 | Time | Lab | Lead | Place |
 | --- | --- | --- | --- |
-| 18:45 - 19:15 | RBO Lab | Oliver Brock | 5.065 |
-| 18:45 - 19:15 | LIS Lab | Marc Toussaint | 4.028 |
-| 18:45 - 19:15 | MRS Lab | Wolfgang Hönig | 4.014 |
-| 18:45 - 19:15 | RIP Lab | Guillermo Gallego | 5.024 |
-| 18:45 - 19:15 | Science of Intelligence Lab | TBD | 2nd floor |
+| 18:45 - 19:15 | [RBO Lab](https://www.tu.berlin/robotics) | Oliver Brock | 5.065 |
+| 18:45 - 19:15 | [LIS Lab](https://argmin.lis.tu-berlin.de) | Marc Toussaint | 4.028 |
+| 18:45 - 19:15 | [MRS Lab](https://imrclab.github.io) | Wolfgang Hönig | 4.014 |
+| 18:45 - 19:15 | [RIP Lab](https://sites.google.com/view/guillermogallego/home) | Guillermo Gallego | 6.058 |
 
 ## HHI Department Demos
 
