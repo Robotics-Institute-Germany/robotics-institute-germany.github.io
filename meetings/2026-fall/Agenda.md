@@ -23,7 +23,7 @@ parent: RIG General Meeting Fall 2026 in Berlin
 | 15:45 | Status-quo Workpackage 3 | Tamim Asfour | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 17:45 | Status-quo Workpackage 8 | Oliver Brock | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 18:00 | DGR General Assembly |  | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
-| 18:45 | Lab Tour | We will tour several labs in groups in rotation, exact room locations TBD | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9) |
+| 18:45 | Lab Tour | We will tour several labs in groups in rotation, see room locations below | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9) |
 | 19:30 - 22:00 | Reception | Relaxed, informal, and open-exhibition style, with Fraunhofer HHI technology demonstrators as opportunities to chat with colleagues and hosts, and dinner along the way. | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 
 ### Friday, September 18, 2026
@@ -50,17 +50,19 @@ There are four timeslots in total.
 ## Lab Tour
 
 ### Thursday, September 17, 2026
+All lab tours and demos listed below will take place in the [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9) building at TU Berlin.
 
 | Time | Lab | Lead | Place |
 | --- | --- | --- | --- |
-| 18:45 - 19:15 | [RBO Lab](https://www.tu.berlin/robotics) | Oliver Brock | 5.065 |
-| 18:45 - 19:15 | [LIS Lab](https://argmin.lis.tu-berlin.de) | Marc Toussaint | 4.028 |
-| 18:45 - 19:15 | [MRS Lab](https://imrclab.github.io) | Wolfgang Hönig | 4.014 |
-| 18:45 - 19:15 | [RIP Lab](https://sites.google.com/view/guillermogallego/home) | Guillermo Gallego | 6.058 |
+| 18:45 - 19:15 | [RBO Lab](https://www.tu.berlin/robotics)| Oliver Brock | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9) 5.065 |
+| 18:45 - 19:15 | [LIS Lab](https://argmin.lis.tu-berlin.de) | Marc Toussaint | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9) 4.028 |
+| 18:45 - 19:15 | [MRS Lab](https://imrclab.github.io) | Wolfgang Hönig | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9) 4.014 |
+| 18:45 - 19:15 | [RIP Lab](https://sites.google.com/view/guillermogallego/home) | Guillermo Gallego |  [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9) 6.058 |
 
 ## HHI Department Demos
 
 ### Thursday, September 17, 2026
+The HHI demos will take place at [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5), in parallel with dinner (19:30–22:00).
 
 | Time | Lab | Lead |
 | --- | --- | --- | 
