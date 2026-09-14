@@ -6,7 +6,7 @@ parent: Workshops
 # Bridging Manipulation, Perception, and Learning Workshop
 
 - Time slot: Day 2, 14:00 - 17:00 h 
-- Room: 5.006 (on the 5th floor of Marchstrasse 23)
+- Room: 2.057 (on the 2nd floor of Marchstrasse 23)
 
 ## Abstract
 
