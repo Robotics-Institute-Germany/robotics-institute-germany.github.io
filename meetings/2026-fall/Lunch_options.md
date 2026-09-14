@@ -10,7 +10,7 @@ parent: RIG General Meeting Fall 2026 in Berlin
 
 ## Restaurants in the area
 
-Travel times are approximate and start at Lanolin Fabrik. The price symbols follow Google Maps: € is cheap, €€ normal, €€€ expensive, and €€€€ very expensive/high class. For a large group, please reserve ahead and confirm that the restaurant can accommodate everyone.
+Travel times are approximate and start at Lanolin Fabrik. The price symbols follow Google Maps: € is cheap, and €€ is normal. For a large group, please reserve ahead and confirm that the restaurant can accommodate everyone.
 
 ### €
 
@@ -34,16 +34,6 @@ Travel times are approximate and start at Lanolin Fabrik. The price symbols foll
 - [DOAN Restaurant](https://maps.app.goo.gl/rRE7ae5FaEA6feJK7), 11 min walk
 - [Il Pozzetto](https://maps.app.goo.gl/kS25vKiZfFZHH28t8), 11 min
 - [0086](https://maps.app.goo.gl/fjifqLumecG5Lqqs9), 30 min walk, 20 min public transport
-
-### €€€
-
-- [893 Ryōtei](https://www.google.com/maps/search/?api=1&query=893+Ryotei+Berlin), 29 min walk, 16 min public transport, **dinner only**
-- [Good Friends](https://maps.app.goo.gl/x1L1pdsp9FyGtGHTA), 30 min walk, 17 min public transport
-- [NENI Berlin](https://www.google.com/maps/search/?api=1&query=NENI+Berlin), 32 min walk, 18 min public transport, **friday only**
-
-### €€€€
-
-- [pars](https://www.google.com/maps/search/?api=1&query=pars+Grolmanstrasse+Berlin), 27 min walk, 17 min public transport
 
 ## Supermarkets
 - [EDEKA](https://maps.app.goo.gl/G7AkG13jBd5hJqFH7), 4 min walk,
