@@ -11,7 +11,7 @@ parent: RIG General Meeting Fall 2026 in Berlin
 
 | Time | Item | Details | Location |
 | --- | --- | --- | --- |
-| 09:00 - 12:00 | [Workshops and Meetings of RIG Clusters and Workpackages]({% link meetings/2026-fall/workshops/index.md %}) | ☕ Coffee break at 10:30 | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9) |
+| 09:00 - 12:00 | [Workshops and Meetings of RIG Clusters and Workpackages]({% link meetings/2026-fall/workshops/index.md %}) | ☕ Coffee break at 10:30 in room 4.033 | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9) |
 | 12:00 | Lunch | Self-pay | See lunch options [here]({% link meetings/2026-fall/Lunch_options.md %}). |
 | 13:00 | Meet & Greet | Registration | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 13:20 | Welcome from RIG Berlin | Oliver Brock & Prof. Dr.-Ing. Thomas Wiegand| [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
@@ -38,7 +38,7 @@ parent: RIG General Meeting Fall 2026 in Berlin
 | 12:00 | Lunch | Self-pay | See lunch options [here]({% link meetings/2026-fall/Lunch_options.md %}). |
 | 13:00 | Feedback RIG Members & Next Steps | Tamim Asfour and Angela Schoellig | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 13:30 | Conclusion & Closing | Berlin host team | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
-| 14:00 - 17:00 | [Workshops and Meetings of RIG Clusters and Workpackages]({% link meetings/2026-fall/workshops/index.md %}) | ☕ Coffee break at 15:30 | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9) |
+| 14:00 - 17:00 | [Workshops and Meetings of RIG Clusters and Workpackages]({% link meetings/2026-fall/workshops/index.md %}) | ☕ Coffee break at 15:30 in room 4.033 | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9) |
 
 ## Workshops
 All workshops will be held at the [MAR building, TU Berlin, Marchstraße 23, 10587](https://maps.app.goo.gl/yZszp4wgrEncJMrD8).
