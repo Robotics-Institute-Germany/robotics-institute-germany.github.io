@@ -31,7 +31,7 @@ Please note, that the rooms are on different floors of the building. The first d
 
 | Workshop | Time | Room |
 | -        | -    | -    |
-| HRI Cluster Workshop <br/> _barbara.bruno@kit.edu_ | 14:00 - 15:30 | 0.008    |
+| HRI Cluster Workshop <br/> _barbara.bruno@kit.edu_ | 14:00 - 15:30 | 5.006    |
 | Healthcare Robotics and Human Augmentation <br/> _stefanie.speidel@nct-dresden.de_ | 14:00 - 15:30 | 2.046 |
 | Bridging Manipulation, Perception, and Learning (3 clusters) <br/> _andrea.sipos@dlr.de_ | 14:00 - 17:00 | 2.057 |
 | Learning Cluster Workshop is merged into the 3-cluster meeting <br/> _toussaint@tu-berlin.de_ | 14:00 - 17:00 | 2.057 |
