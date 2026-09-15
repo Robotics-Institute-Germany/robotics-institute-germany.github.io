@@ -14,7 +14,7 @@ parent: RIG General Meeting Fall 2026 in Berlin
 | 09:00 - 12:00 | [Workshops and Meetings of RIG Clusters and Workpackages]({% link meetings/2026-fall/workshops/index.md %}) | ☕ Coffee break at 10:30 in room 4.033 | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9) |
 | 12:00 | Lunch | Self-pay | See lunch options [here]({% link meetings/2026-fall/Lunch_options.md %}). |
 | 13:00 | Meet & Greet | Registration | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
-| 13:20 | Welcome from RIG Berlin | Oliver Brock & Prof. Dr.-Ing. Thomas Wiegand| [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
+| 13:20 | Welcome from RIG Berlin | Oliver Brock & Thomas Wiegand| [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 13:40 | Status Report from the Board | Tamim Asfour, Angela Schoellig, Oliver Brock, Sven Behnke | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 14:00 | Address from Simon Hechinger (BMFTR) and David Müller (VDI/VDE) |  | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 14:30 | Status-quo Workpackage 1 and 2 | Angela Schoellig | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
@@ -23,7 +23,7 @@ parent: RIG General Meeting Fall 2026 in Berlin
 | 15:45 | Status-quo Workpackage 3 | Tamim Asfour | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 17:45 | Status-quo Workpackage 8 | Oliver Brock | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 | 18:00 | DGR General Assembly |  | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
-| 18:45 | Lab Tour | We will tour several labs in groups in rotation, see room locations below | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9) |
+| 18:45 | Lab Tour | We will tour several labs in 4 groups in rotation, see room locations below | [MAR](https://maps.app.goo.gl/QbeDZgikVbkJEXdY9) |
 | 19:30 - 22:00 | Reception | Relaxed, informal, and open-exhibition style, with Fraunhofer HHI technology demonstrators as opportunities to chat with colleagues and hosts, and dinner along the way. | [Lanolin Fabrik](https://maps.app.goo.gl/L68xEjPiGbbFhGft5) |
 
 ### Friday, September 18, 2026
