@@ -24,7 +24,6 @@ Please note, that the rooms are on different floors of the building. The first d
 
 | Workshop | Time | Room |
 | -        | -    | -    |
-| WP3 - Science and Engineering for AI-powered Robotics  <br/> _asfour@kit.edu_ | 9:00 - 12:00    | 5.006    |
 | Perception Cluster Meeting <br/> _joerg.stueckler@uni-a.de_ | 9:00 - 12:00 | 5.060 |
 
 ### Friday
