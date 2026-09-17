@@ -17,17 +17,23 @@ The workshop is designed as an informal and interactive forum where participants
 We invite both researchers who are already part of the Multi-Robot Systems Cluster
  and anyone interested in the field to join and contribute. The workshop aims to strengthen connections across research groups, identify complementary expertise and shared challenges, and create opportunities for future collaborations.
 
-If you are interested in giving a
-**5-minute Spotlight Talk**
- on a topic relevant to multi-robot systems — including ideas with potential for future collaboration or extensions of your research to a multi-robot setting — please reach out to
-**Tanja Kaiser (tanja.kaiser@utn.de)**.
+## Talks
 
-## Tentative Agenda
+| Name             | Title                                                        |
+| ---              | ---                                                          | 
+| Samuel Leder     | MRS for Architecture and Construction                        |
+| Malte Wirkus     | RAPPS - Modular Robots                                       |
+| Sebastian Trimpe | Generative AI for Safe and Photorealistic Drone Light Shows  | 
+| Wolfgang Hönig   | Kinodynamic Motion Planning for Robot Teams                  |
+| Usama Ali        | Morphology-Aware Control for Modular Aquatic Robots          |
+| Moritz Roidl     | Standardized Communication Protocols for MRS                 |
+| Buse Aktaş       | Human Perception of Multi-Body Robots                        |
 
+## Agenda
 
 | Time          | Session                               |
 | ---           | ---                                   | 
 | 14:00 - 14:15  | Welcome and Short Introduction Round  |
-| 14:15 - 15:15 | Spotlight Talks                       |
+| 14:15 - 15:15 | Spotlight Talks  (5 min Talk + 3-4 min questions & speaker change) |
 | 15:15 - 15:30 | Networking                            |
 
